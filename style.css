@@ -1,0 +1,25 @@
+.container {
+    text-align: center;
+}
+
+.h-title {
+    font-size: 80px;
+    font-weight: 900;
+}
+.desc {
+    text-align: center;
+    font-size: 35px;
+}
+.btn {
+    padding:20px 80px;
+    background-color: blue ;
+    color: #fff;
+}
+#quote {
+    font-size: 25px;
+    font-weight: 500;
+}
+#author {
+    font-size: 25px;
+    font-weight: 500;
+}
